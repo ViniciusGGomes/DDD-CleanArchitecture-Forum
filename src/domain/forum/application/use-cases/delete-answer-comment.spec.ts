@@ -3,7 +3,7 @@ import { beforeEach, describe, expect, it } from "vitest";
 import { DeleteAnswerCommentUseCase } from "./delete-answer-comment";
 import { makeAnswerComment } from "@/test/factory/make-answer-comment";
 import { UniqueEntityID } from "@/core/entities/unique-entity-id";
-import { NotAllowedError } from "./erros/not-allowed-error";
+import { NotAllowedError } from "@/core/erros/erros/not-allowed-error";
 
 let inMemoryAnswerCommentsRepository: InMemoryAnswerCommentsRepository;
 let sut: DeleteAnswerCommentUseCase;
