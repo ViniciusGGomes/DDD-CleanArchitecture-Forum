@@ -1,7 +1,7 @@
 {
-  "name": "clean-ddd",
+  "name": "forum-api-clean-arch",
   "version": "1.0.0",
-  "description": "Design dirigido à domínio",
+  "description": "API de um fórum de Q&A desenvolvida com Node.js, aplicando conceitos de Domain-Driven Design (DDD), Clean Architecture e princípios SOLID.",
   "main": "index.js",
   "type": "module",
   "scripts": {
