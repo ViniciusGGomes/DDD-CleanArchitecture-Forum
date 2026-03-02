@@ -1,6 +1,7 @@
 # Fórum – Core da Aplicação
 
 ## Visão geral
+Segunda etapa do projeto(migrando nossa codebase para Nest) https://github.com/ViniciusGGomes/Nest-Forum-Clean 
 
 Este repositório contém o **core da aplicação de um fórum**, desenvolvido com foco total nas **regras de negócio** e na **modelagem do domínio**, sem dependência de frameworks, banco de dados ou qualquer detalhe de infraestrutura.
 
@@ -144,4 +145,5 @@ Na próxima etapa do projeto, o core será integrado ao mundo externo, mantendo 
 * Infraestrutura
 
 Essa separação garante que o domínio continue estável, independente de decisões tecnológicas.
+
 
